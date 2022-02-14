@@ -4,6 +4,7 @@
 
 #include <stdio.h>
 #include <Raven/Application.h>
+#include <Raven/Log.h>
 
 // -------------------------------------------
 // ----------------ENTRY POINT----------------
