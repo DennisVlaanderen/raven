@@ -7,5 +7,5 @@
 		#define RAVEN_API __declspec(dllimport)
 	#endif // RV_BUILD_DLL
 #else
-	#error Hazel only supports Windows!
+	#error Raven only supports Windows!
 #endif // RV_PLATFORM_WINDOWS
